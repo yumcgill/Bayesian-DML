@@ -1,3 +1,4 @@
+
 The R code provided is to implement the Example 1 for “A scalable Bayesian double machine learning framework for high dimensional causal estimation, with application to racial disproportionality assessment”  by Yu Luo, Vanessa McNealis, and Yijing Li (https://arxiv.org/abs/2502.07695). 
 
 Each folder contains the code for 
