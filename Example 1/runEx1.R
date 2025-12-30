@@ -9,6 +9,11 @@ library(randomForest)
 library(parallel)
 options(mc.cores = 23)
 
+### load functions
+source("Neyman_EL_Ex1.R")  
+source("Neyman_ETEL_Ex1.R") 
+source("Neyman_HD_Ex1.R")  
+
 ### prior function
 loglik.prior<-function(theta){
   sum(dnorm(theta,mean=mutheta,sd=sigtheta,log=TRUE))
