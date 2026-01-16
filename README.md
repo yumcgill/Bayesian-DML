@@ -23,7 +23,7 @@ The ```Example 1/``` folder contains code for simulations with a binary treatmen
 
 + ```runEx1.R```
  Runs the simulation study for:
-  + Sample sizes: n=50 and n=200
+  + Sample sizes: $n=50$ and $n=200$
   + Number of replications: 1,000
 
 ## Example 2: Continuous Treatment
