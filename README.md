@@ -1,7 +1,7 @@
 
 This repository contains the R code used to implement the simulation studies in the paper:
 
-[**A Scalable Bayesian Double Machine Learning Framework for High-Dimensional Causal Estimation, with Application to Racial Disproportionality Assessment**](https://arxiv.org/abs/arXiv:2502.07695)  by Yu Luo, Vanessa McNealis, and Yijing Li (arXiv:2502.07695)
+[**A Scalable Bayesian Double Machine Learning Framework for High-Dimensional Causal Estimation, with Application to Racial Disproportionality Assessment**](https://arxiv.org/abs/arXiv:2502.07695)  by Yu Luo, Vanessa McNealis, and Yijing Li
 
 The code reproduces the simulation results for both binary and continuous treatment settings using the proposed Bayesian double machine learning framework.
 
