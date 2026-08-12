@@ -43,7 +43,8 @@ Implements MCMC using Algorithm 2 with $K=2$ based on the Bayesian High-Dimensio
  Runs the simulation study for:
   + Sample size: $n=40$
   + Number of replications: 1,000
-
++ ```BDML.R```
+Implements the Bayesian Double Machine Learning approach proposed in DiTraglia and Liu (2025) for the continuous exposure example.
 
 ## Note
 
