@@ -25,8 +25,7 @@ loglik.prior<-function(theta){
 
 
 #Set the prior parameters
-mualp<-1;sigalp<-1
-mutheta<-1;sigtheta<-1
+mutheta<-0;sigtheta<-2
 ### Random forest
 ### n = 40
 ### ETEL 
